@@ -1,3 +1,6 @@
+# Overview
+Learning repository for [Ruby on Rails6 Practical Guide](https://www.amazon.co.jp/Ruby-Rails-%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-impress-gear/dp/4295008052)
+
 # rails6-compose
 
 Docker を用いて Rails 6 アプリケーションの開発・学習を始めるための設定ファイル等のセット
